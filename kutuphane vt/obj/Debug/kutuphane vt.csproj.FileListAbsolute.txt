@@ -1,0 +1,44 @@
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\kutuphane vt.exe.config
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\kutuphane vt.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\kutuphane vt.pdb
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\Google.Protobuf.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\MySql.Data.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Buffers.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Memory.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\ZstdSharp.dll
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\Google.Protobuf.pdb
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\Google.Protobuf.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\MySql.Data.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Buffers.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Memory.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane vt.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane_vt.Form1.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane_vt.FormEkle.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane_vt.FormListele.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane_vt.Properties.Resources.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane vt.csproj.GenerateResource.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane vt.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane vt.csproj.CopyComplete
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane vt.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\kutuphane vt\kutuphane vt\obj\Debug\kutuphane vt.pdb
